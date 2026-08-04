@@ -6,3 +6,5 @@ serial.
 
 It first scans GPIOS 0-22 to find floating pins, avoiding driving
 pins that are wired as inputs.
+
+Full writeup at https://excamera.substack.com/p/gpio-announcer
