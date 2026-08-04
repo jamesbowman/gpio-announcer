@@ -1,6 +1,6 @@
 from adafruit_pioasm import Program
 
-GPIO_COUNT = 20
+GPIO_COUNT = 23
 
 OUTPUT = "an.py"
 

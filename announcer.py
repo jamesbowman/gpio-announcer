@@ -59,7 +59,6 @@ def detect_pin(pin):
 
 
 gpio_names = tuple(board_gpio_names())
-print(f"{gpio_names=}")
 
 if not gpio_names:
     raise RuntimeError("board has no GP<n> pins in the configured range")
